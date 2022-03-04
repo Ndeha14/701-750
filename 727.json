@@ -37,15 +37,15 @@
     },
     {
       "trait_type": "Crunch Level",
-      "value": "Level 3"
+      "value": "Level 4"
     },
     {
       "trait_type": "Luck power",
-      "value": "Level 2"
+      "value": "Level 0"
     },
     {
       "trait_type": "Strenght power",
-      "value": "Level 2"
+      "value": "Level 0"
     },
     {
       "trait_type": "Charisma power",
@@ -53,7 +53,7 @@
     },
     {
       "trait_type": "Agility power",
-      "value": "Level 0"
+      "value": "Level 5"
     }
   ],
   "properties": {
